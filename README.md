@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dominika</h1>
+<h1 align="left">Hi 👋, I'm Dominika</h1>
+<h3 align="left" font-weigh='200'>Nice to have you here</h3>
 <h3 align="center">Frontend Dev and UX/UI Design lover</h3>
 
 <h3 align="left">Connect with me:</h3>
